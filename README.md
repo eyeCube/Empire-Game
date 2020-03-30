@@ -23,3 +23,4 @@ Take over all of the enemies' home planets to win
 
 Ships can fight each other in mid-flight if they come near one another. Larger ships defeat smaller ships.
 
+Play with a faster AI, more opponents and/or a larger map if the game is too easy. The options for the game mode are highly customizable, and there are even special game types that change the goal dramatically.
