@@ -1,0 +1,50 @@
+-Home Planets (Earth-like planets) are more important than ever. They restore troops more than four times faster than the biggest of the normal planets. This way, if you are falling behind in territory and army size, you can use excellent tactics to secure Home Planets and possibly make a comeback.
+
+-there are now Neutral Home Planets which can be captured.
+
+-all planets have much reduced troop regeneration rate, making each troop much more important, and making it much more important which planets you choose to attack and capture.
+
+-most maps are bigger, taking up more than the screen. Scroll the mouse to the edge or use arrow keys to move the view around. I will add some sort of minimap, I just haven't figured out how I'm gonna do it.
+
+-ships you deploy can fire lasers at other nearby enemy ships, destroying them. Of course, their ships can destroy yours as well. Even the smallest ship (fighter) can destroy a bomber or a carrier, but the bigger the ship, the more range it has. Carriers have massive range, so it's quite unlikely a fighter will ever destroy a carrier, but still possible. It's mostly up to chance to determine which ship attacks first if both are in range of each other. For example, usually, two opposing bombers will destroy each other, but sometimes one will destroy the other and survive. This mechanic adds whole new levels of strategy to the game.
+
+-bomber ships cost 5 ships, carriers cost 10. It's worth it to invest in bombers and carriers sometimes for their extra range.
+
+-while your planet(s) is selected, use the Z, X, and C keys to send out a single fighter, bomber, or carrier unit, respectively.
+
+-while your planet(s) is selected, press Q to set a "rally point" to the selected planet. Every second, all troops on the planet will be sent to that planet's rally point. Select a planet and set the rally point to that same planet in order to reset the rally point. You can also press Space to reset the rally points for all selected planets. This rally point feature is very important for increasing control.
+
+
+
+CONTROLS
+
+
+-move mouse to edge of screen or use arrow keys to control view
+
+
+-left click to select planets; left click and drag to box-select planets; left click in empty space to de-select all planets.
+
+-numbers 1 to 0 are hotkeys.
+
+
+While planet is selected:
+
+-right click to send 1/2 of troops from selected planets to target planet. Hold Shift when you right click to send 3/4 of the troops, and hold Ctrl to send 1/4.
+
+-use Z, X, C to send specific troops - fighter (1), bomber (5), carrier (10).
+
+-press Q to set or clear rally point, Space to clear rally points.
+
+-hold shift and press a number 1-0 to set that number as a hotkey for selected planets.
+
+
+
+Remember:
+
+-Neutral planets, even the neutral home planets, are inactive and do not generate troops until captured
+
+-Planets can only hold so many troops; hover the mouse over the planet to see how many it can hold.
+
+-The bigger the planet, the more troops it can hold, and the faster it generates troops.
+
+-Home planets are King. The AI knows this, and will try to attack your home planet with everything it has.
